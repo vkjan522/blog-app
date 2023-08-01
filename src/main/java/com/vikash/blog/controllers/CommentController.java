@@ -3,7 +3,6 @@ package com.vikash.blog.controllers;
 import com.vikash.blog.payloads.ApiResponse;
 import com.vikash.blog.payloads.CommentDTO;
 import com.vikash.blog.services.CommentService;
-import jakarta.persistence.criteria.CriteriaBuilder;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
